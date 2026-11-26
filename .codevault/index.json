@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "HackerRank/Java/Easy/Java-If-Else/Solution.java",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Java If-Else",
+        "slug": "java-if-else",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true",
+        "solvedAt": "2026-11-26T14:04:23.000Z",
+        "patterns": [],
+        "topics": [
+          "Graph",
+          "Math"
+        ],
+        "tags": [
+          "Graph",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-11-26T14:04:23.000Z"
+    }
+  ]
+}
