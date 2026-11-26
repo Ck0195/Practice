@@ -44,6 +44,26 @@
         ]
       },
       "solvedAt": "2026-11-26T14:06:59.000Z"
+    },
+    {
+      "path": "gfg/Java/Basic/Largest-in-Array/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Largest in Array",
+        "slug": "largest-element-in-array4009",
+        "difficulty": "Basic",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+        "solvedAt": "2026-11-26T15:41:28.122Z",
+        "patterns": [],
+        "topics": [
+          "Array"
+        ],
+        "tags": [
+          "Array"
+        ]
+      },
+      "solvedAt": "2026-11-26T15:41:28.122Z"
     }
   ]
 }
