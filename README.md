@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-1-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-1-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-0-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-2-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-2-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-0-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 1 |
+| 🏆 Total Solved | 2 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟢 Easy | ████████████████████ 100% | 1/1 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟢 Easy | ████████████████████ 100% | 2/2 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
 
 ## 🔥 Coding Activity
 
@@ -44,25 +44,27 @@ _No pattern data yet._
 
 | Topic | Problems |
 | --- | ---: |
+| [Math](topics/Math.md) | 2 |
 | [Graph](topics/Graph.md) | 1 |
-| [Math](topics/Math.md) | 1 |
+| [String](topics/String.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 1 |
+| Java | 2 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| HackerRank | 1 |
+| HackerRank | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank | 2026-11-26 |
 | [Java If-Else](HackerRank/Java/Easy/Java-If-Else/README.md) | Easy | Java | HackerRank | 2026-11-26 |
 
 ## 📚 Solution Documentation

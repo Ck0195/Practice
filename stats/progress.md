@@ -10,9 +10,9 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 1 | 100% |
+| 🏆 Total Solved | 2 | 100% |
 | 🔵 Basic | 0 | 0% |
-| 🟢 Easy | 1 | 100% |
+| 🟢 Easy | 2 | 100% |
 | 🟠 Medium | 0 | 0% |
 | 🔴 Hard | 0 | 0% |
 
@@ -20,22 +20,22 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟢 Easy | ████████████████████ 100% | 1/1 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟢 Easy | ████████████████████ 100% | 2/2 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
-| HackerRank | 1 |
+| HackerRank | 2 |
 
 ## 💻 Language Distribution
 
 | Language | Problems |
 | --- | ---: |
-| Java | 1 |
+| Java | 2 |
 
 ## 🧩 Pattern Distribution
 
@@ -45,8 +45,9 @@ _No data yet._
 
 | Topic | Problems |
 | --- | ---: |
+| Math | 2 |
 | Graph | 1 |
-| Math | 1 |
+| String | 1 |
 
 ---
 
